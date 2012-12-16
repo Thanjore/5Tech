@@ -1,5 +1,5 @@
 public class FYP{
 
 public String 5Tech;
-
+public String edit;
 }
